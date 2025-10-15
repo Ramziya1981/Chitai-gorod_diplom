@@ -15,8 +15,8 @@ https://skypro101-2.yonote.ru/share/d254b0c7-e725-4a9d-80fc-91219464de80
 * pytest tests/api/ - только api тесты
 
 4. Создать отчетность
-pytest --alluredir=allure-results - Запуск тестов с сбором данных для Allure
-allure generate allure-files -o allure-report - генерация отчета
+* pytest --alluredir=allure-results - Запуск тестов с сбором данных для Allure
+* allure generate allure-files -o allure-report - генерация отчета
 
 5. Открыть отчет 'allure open allure-report'
 
