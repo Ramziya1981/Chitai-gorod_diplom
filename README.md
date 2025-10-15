@@ -21,11 +21,11 @@ https://skypro101-2.yonote.ru/share/d254b0c7-e725-4a9d-80fc-91219464de80
 5. Открыть отчет 'allure open allure-report'
 
 ## Стек
-pytest
-selenium
-requests
-allure
-config
+* pytest
+* selenium
+* requests
+* allure
+* config
 
 # Структура проекта
 * config/ # Конфигурационные файлы
