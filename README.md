@@ -2,7 +2,8 @@
 Автоматизированные UI- и API-тесты из финальной работы по ручному тестированию "Тестирование интернет магазина книг “Читай- город”."
 ## Ссылка на финальный проект по тестированию: 
 https://skypro101-2.yonote.ru/share/d254b0c7-e725-4a9d-80fc-91219464de80
-##Шаги
+
+## Шаги
 1.Склонировать проект ‘git clone https://github.com/Ramziya1981/Chitai-gorod_diplom
 2.Установить все зависимости
 3.Запустить тесты ‘pytest’
@@ -14,14 +15,14 @@ pytest --alluredir=allure-results - Запуск тестов с сбором д
 allure generate allure-files -o allure-report - генерация отчета
 5.Открыть отчет 'allure open allure-report'
 
-##Стек
+## Стек
 pytest
 selenium
 requests
 allure
 config
 
-##Структура проекта
+## Структура проекта
 config/ # Конфигурационные файлы
 init.py
 environment.py # Настройки окружения и URL
