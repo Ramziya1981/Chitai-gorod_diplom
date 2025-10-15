@@ -27,30 +27,24 @@ allure
 config
 
 ## Структура проекта
-config/ # Конфигурационные файлы
-init.py
-environment.py # Настройки окружения и URL
-test_data.py # Тестовые данные
-pages/ # Page Object модели
-init.py
-base_page.py # Базовый класс для страниц
-main_page.py # Главная страница
-search_page.py # Страница поиска
-advanced_search_page.py # Расширенный поиск
-film_page.py # Страница фильма
-media_news_page.py # Страница новостей
-tests/ # Тесты
-init.py
-conftest.py # Фикстуры pytest
-api/ # API тесты
-init.py
-test_api_chitai_gorod.py
-ui/ # UI тесты
-init.py
-test_ui_chitai_gorod.py
-requirements.txt # Зависимости проекта
-README.md # Документация
-Библиотеки
+### config/ # Конфигурационные файлы
+### init.py
+### environment.py # Настройки окружения и URL
+### pages/ # Page Object модели
+### init.py
+### base_page.py # Базовый класс для страниц
+### main_page.py # Главная страница
+### search_page.py # Страница поиска
+### advanced_search_page.py # Расширенный поиск
+### api/ # API тесты
+### test_api_chitai_gorod.py
+### ui/ # UI тесты
+### init.py
+### test_ui_chitai_gorod.py
+### requirements.txt # Зависимости проекта
+### README.md # Документация
+
+## Библиотеки
 pip install pytest
 pip install selenium
 pip install webdriver-manager
