@@ -4,20 +4,21 @@
 https://skypro101-2.yonote.ru/share/d254b0c7-e725-4a9d-80fc-91219464de80
 
 ## Шаги
-1.Склонировать проект ‘git clone https://github.com/Ramziya1981/Chitai-gorod_diplom
+1. Склонировать проект ‘git clone https://github.com/Ramziya1981/Chitai-gorod_diplom
 
-2.Установить все зависимости
+2. Установить все зависимости
 
-3.Запустить тесты ‘pytest’
+3. Запустить тесты ‘pytest’
 
 * pytest - все тесты
 * pytest tests/ui/ - только ui тесты
 * pytest tests/api/ - только api тесты
 
-4.Создать отчетность
+4. Создать отчетность
 pytest --alluredir=allure-results - Запуск тестов с сбором данных для Allure
 allure generate allure-files -o allure-report - генерация отчета
-5.Открыть отчет 'allure open allure-report'
+
+5. Открыть отчет 'allure open allure-report'
 
 ## Стек
 pytest
