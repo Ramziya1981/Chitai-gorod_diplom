@@ -10,9 +10,9 @@ https://skypro101-2.yonote.ru/share/d254b0c7-e725-4a9d-80fc-91219464de80
 
 3.Запустить тесты ‘pytest’
 
-* pytest - все тесты
-* pytest tests/ui/ - только ui тесты
-* pytest tests/api/ - только api тесты
+* pytest - все тесты
+* pytest tests/ui/ - только ui тесты
+* pytest tests/api/ - только api тесты
 
 4.Создать отчетность
 pytest --alluredir=allure-results - Запуск тестов с сбором данных для Allure
