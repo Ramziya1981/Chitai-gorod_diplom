@@ -27,7 +27,7 @@ requests
 allure
 config
 
-* Структура проекта
+# Структура проекта
 * config/ # Конфигурационные файлы
 * init.py
 * environment.py # Настройки окружения и URL
