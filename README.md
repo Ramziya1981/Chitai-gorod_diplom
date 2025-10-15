@@ -26,23 +26,23 @@ requests
 allure
 config
 
-## Структура проекта
-### config/ # Конфигурационные файлы
-### init.py
-### environment.py # Настройки окружения и URL
-### pages/ # Page Object модели
-### init.py
-### base_page.py # Базовый класс для страниц
-### main_page.py # Главная страница
-### search_page.py # Страница поиска
-### advanced_search_page.py # Расширенный поиск
-### api/ # API тесты
-### test_api_chitai_gorod.py
-### ui/ # UI тесты
-### init.py
-### test_ui_chitai_gorod.py
-### requirements.txt # Зависимости проекта
-### README.md # Документация
+* Структура проекта
+* config/ # Конфигурационные файлы
+* init.py
+* environment.py # Настройки окружения и URL
+* pages/ # Page Object модели
+* init.py
+* base_page.py # Базовый класс для страниц
+* main_page.py # Главная страница
+* search_page.py # Страница поиска
+* advanced_search_page.py # Расширенный поиск
+* api/ # API тесты
+* test_api_chitai_gorod.py
+* ui/ # UI тесты
+* init.py
+* test_ui_chitai_gorod.py
+* requirements.txt # Зависимости проекта
+* README.md # Документация
 
 ## Библиотеки
 * pip install pytest
