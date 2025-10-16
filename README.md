@@ -1,10 +1,10 @@
-# Chitai-gorod_diplom
+# DIPLOM_Chitai-gorod
 Автоматизированные UI- и API-тесты из финальной работы по ручному тестированию "Тестирование интернет магазина книг “Читай- город”."
 ## Ссылка на финальный проект по тестированию: 
 https://skypro101-2.yonote.ru/share/d254b0c7-e725-4a9d-80fc-91219464de80
 
 ## Шаги
-1. Склонировать проект ‘git clone https://github.com/Ramziya1981/Chitai-gorod_diplom
+1. Склонировать проект ‘git clone https://github.com/Ramziya1981/DIPLOM_Chitai-gorod.git
 
 2. Установить все зависимости
 
